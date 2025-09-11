@@ -1,0 +1,326 @@
+[
+  {
+    "patient_id": "TBK001",
+    "name": "Rahul Kumar",
+    "age": 28,
+    "gender": "Male",
+    "migrant_status": "Interstate Migrant",
+    "state_of_origin": "Bihar",
+    "district_in_kerala": "Ernakulam",
+    "residence_type": "Labor camp",
+    "occupation": "Construction worker",
+    "symptom_onset_date": "2025-06-10",
+    "diagnosis_date": "2025-07-01",
+    "treatment_start_date": "2025-07-05",
+    "tb_type": "Pulmonary",
+    "drug_resistance": "Drug-sensitive",
+    "comorbidities": [
+      "None"
+    ],
+    "previous_tb_history": false,
+    "treatment_regimen": "HRZE for 2 months, HR for 4 months",
+    "adverse_reactions": [
+      "Mild nausea"
+    ],
+    "treatment_outcome": "On treatment",
+    "lab_results": {
+      "smear": "Positive",
+      "genexpert": "MTB detected, no resistance",
+      "culture": "Positive"
+    },
+    "nutritional_status": "Underweight",
+    "lifestyle_risks": [
+      "Smoking"
+    ]
+  },
+  {
+    "patient_id": "TBK002",
+    "name": "Sita Devi",
+    "age": 35,
+    "gender": "Female",
+    "migrant_status": "Interstate Migrant",
+    "state_of_origin": "Jharkhand",
+    "district_in_kerala": "Thrissur",
+    "residence_type": "Shared housing",
+    "occupation": "Domestic worker",
+    "symptom_onset_date": "2025-05-18",
+    "diagnosis_date": "2025-06-10",
+    "treatment_start_date": "2025-06-12",
+    "tb_type": "Extrapulmonary (lymph node)",
+    "drug_resistance": "Drug-sensitive",
+    "comorbidities": [
+      "Diabetes"
+    ],
+    "previous_tb_history": true,
+    "treatment_regimen": "HRZE for 2 months, HR for 4 months",
+    "adverse_reactions": [
+      "None"
+    ],
+    "treatment_outcome": "Cured",
+    "lab_results": {
+      "smear": "Negative",
+      "genexpert": "MTB detected, no resistance",
+      "culture": "Negative"
+    },
+    "nutritional_status": "Normal",
+    "lifestyle_risks": []
+  },
+  {
+    "patient_id": "TBK003",
+    "name": "Mohammed Aslam",
+    "age": 42,
+    "gender": "Male",
+    "migrant_status": "Interstate Migrant",
+    "state_of_origin": "West Bengal",
+    "district_in_kerala": "Kozhikode",
+    "residence_type": "Rented room",
+    "occupation": "Auto driver",
+    "symptom_onset_date": "2025-04-20",
+    "diagnosis_date": "2025-05-15",
+    "treatment_start_date": "2025-05-17",
+    "tb_type": "Pulmonary",
+    "drug_resistance": "MDR-TB",
+    "comorbidities": [
+      "HIV"
+    ],
+    "previous_tb_history": true,
+    "treatment_regimen": "Short MDR regimen (9 months)",
+    "adverse_reactions": [
+      "Hearing loss"
+    ],
+    "treatment_outcome": "On treatment",
+    "lab_results": {
+      "smear": "Positive",
+      "genexpert": "MTB detected, Rif resistance detected",
+      "culture": "Positive"
+    },
+    "nutritional_status": "Severely underweight",
+    "lifestyle_risks": [
+      "Alcohol",
+      "Smoking"
+    ]
+  },
+  {
+    "patient_id": "TBK004",
+    "name": "Pooja Kumari",
+    "age": 23,
+    "gender": "Female",
+    "migrant_status": "Interstate Migrant",
+    "state_of_origin": "Odisha",
+    "district_in_kerala": "Alappuzha",
+    "residence_type": "Factory dormitory",
+    "occupation": "Textile worker",
+    "symptom_onset_date": "2025-07-01",
+    "diagnosis_date": "2025-07-20",
+    "treatment_start_date": "2025-07-22",
+    "tb_type": "Pulmonary",
+    "drug_resistance": "Drug-sensitive",
+    "comorbidities": [],
+    "previous_tb_history": false,
+    "treatment_regimen": "HRZE for 2 months, HR for 4 months",
+    "adverse_reactions": [
+      "Rash"
+    ],
+    "treatment_outcome": "On treatment",
+    "lab_results": {
+      "smear": "Positive",
+      "genexpert": "MTB detected, no resistance",
+      "culture": "Pending"
+    },
+    "nutritional_status": "Normal",
+    "lifestyle_risks": []
+  },
+  {
+    "patient_id": "TBK005",
+    "name": "Ramesh Yadav",
+    "age": 37,
+    "gender": "Male",
+    "migrant_status": "Interstate Migrant",
+    "state_of_origin": "Uttar Pradesh",
+    "district_in_kerala": "Palakkad",
+    "residence_type": "Slum dwelling",
+    "occupation": "Rickshaw puller",
+    "symptom_onset_date": "2025-03-15",
+    "diagnosis_date": "2025-04-01",
+    "treatment_start_date": "2025-04-05",
+    "tb_type": "Pulmonary",
+    "drug_resistance": "Drug-sensitive",
+    "comorbidities": [
+      "Diabetes",
+      "Hypertension"
+    ],
+    "previous_tb_history": false,
+    "treatment_regimen": "HRZE for 2 months, HR for 4 months",
+    "adverse_reactions": [
+      "Fatigue"
+    ],
+    "treatment_outcome": "Cured",
+    "lab_results": {
+      "smear": "Positive",
+      "genexpert": "MTB detected, no resistance",
+      "culture": "Positive"
+    },
+    "nutritional_status": "Underweight",
+    "lifestyle_risks": [
+      "Smoking"
+    ]
+  },
+  {
+    "patient_id": "TBK006",
+    "name": "Anjali Singh",
+    "age": 30,
+    "gender": "Female",
+    "migrant_status": "Interstate Migrant",
+    "state_of_origin": "Chhattisgarh",
+    "district_in_kerala": "Kollam",
+    "residence_type": "Shared housing",
+    "occupation": "Hospital cleaner",
+    "symptom_onset_date": "2025-06-01",
+    "diagnosis_date": "2025-06-20",
+    "treatment_start_date": "2025-06-25",
+    "tb_type": "Extrapulmonary (pleural)",
+    "drug_resistance": "Drug-sensitive",
+    "comorbidities": [],
+    "previous_tb_history": false,
+    "treatment_regimen": "HRZE for 2 months, HR for 4 months",
+    "adverse_reactions": [
+      "Mild headache"
+    ],
+    "treatment_outcome": "On treatment",
+    "lab_results": {
+      "smear": "Negative",
+      "genexpert": "MTB detected",
+      "culture": "Negative"
+    },
+    "nutritional_status": "Normal",
+    "lifestyle_risks": []
+  },
+  {
+    "patient_id": "TBK007",
+    "name": "Javed Khan",
+    "age": 50,
+    "gender": "Male",
+    "migrant_status": "Interstate Migrant",
+    "state_of_origin": "Madhya Pradesh",
+    "district_in_kerala": "Kannur",
+    "residence_type": "Labor camp",
+    "occupation": "Mason",
+    "symptom_onset_date": "2025-02-10",
+    "diagnosis_date": "2025-03-01",
+    "treatment_start_date": "2025-03-04",
+    "tb_type": "Pulmonary",
+    "drug_resistance": "Pre-XDR",
+    "comorbidities": [
+      "HIV"
+    ],
+    "previous_tb_history": true,
+    "treatment_regimen": "All-oral longer regimen",
+    "adverse_reactions": [
+      "Severe fatigue",
+      "Nausea"
+    ],
+    "treatment_outcome": "Defaulted",
+    "lab_results": {
+      "smear": "Positive",
+      "genexpert": "MTB detected, Rif resistance detected",
+      "culture": "Positive"
+    },
+    "nutritional_status": "Underweight",
+    "lifestyle_risks": [
+      "Smoking",
+      "Alcohol"
+    ]
+  },
+  {
+    "patient_id": "TBK008",
+    "name": "Meena Kumari",
+    "age": 40,
+    "gender": "Female",
+    "migrant_status": "Interstate Migrant",
+    "state_of_origin": "Assam",
+    "district_in_kerala": "Malappuram",
+    "residence_type": "Staff quarters",
+    "occupation": "Cook",
+    "symptom_onset_date": "2025-04-01",
+    "diagnosis_date": "2025-04-20",
+    "treatment_start_date": "2025-04-25",
+    "tb_type": "Pulmonary",
+    "drug_resistance": "Drug-sensitive",
+    "comorbidities": [],
+    "previous_tb_history": false,
+    "treatment_regimen": "HRZE for 2 months, HR for 4 months",
+    "adverse_reactions": [],
+    "treatment_outcome": "Cured",
+    "lab_results": {
+      "smear": "Negative",
+      "genexpert": "MTB detected, no resistance",
+      "culture": "Positive"
+    },
+    "nutritional_status": "Normal",
+    "lifestyle_risks": []
+  },
+  {
+    "patient_id": "TBK009",
+    "name": "Arun Das",
+    "age": 32,
+    "gender": "Male",
+    "migrant_status": "Interstate Migrant",
+    "state_of_origin": "Tripura",
+    "district_in_kerala": "Pathanamthitta",
+    "residence_type": "Dormitory",
+    "occupation": "Factory worker",
+    "symptom_onset_date": "2025-08-01",
+    "diagnosis_date": "2025-08-20",
+    "treatment_start_date": "2025-08-22",
+    "tb_type": "Pulmonary",
+    "drug_resistance": "Drug-sensitive",
+    "comorbidities": [
+      "Diabetes"
+    ],
+    "previous_tb_history": false,
+    "treatment_regimen": "HRZE for 2 months, HR for 4 months",
+    "adverse_reactions": [
+      "Liver enzyme elevation"
+    ],
+    "treatment_outcome": "On treatment",
+    "lab_results": {
+      "smear": "Positive",
+      "genexpert": "MTB detected, no resistance",
+      "culture": "Pending"
+    },
+    "nutritional_status": "Underweight",
+    "lifestyle_risks": []
+  },
+  {
+    "patient_id": "TBK010",
+    "name": "Shabana Bano",
+    "age": 45,
+    "gender": "Female",
+    "migrant_status": "Interstate Migrant",
+    "state_of_origin": "Rajasthan",
+    "district_in_kerala": "Kottayam",
+    "residence_type": "Private room",
+    "occupation": "Tailor",
+    "symptom_onset_date": "2025-06-10",
+    "diagnosis_date": "2025-07-01",
+    "treatment_start_date": "2025-07-05",
+    "tb_type": "Extrapulmonary (spinal TB)",
+    "drug_resistance": "Drug-sensitive",
+    "comorbidities": [
+      "Hypertension"
+    ],
+    "previous_tb_history": true,
+    "treatment_regimen": "HRZE for 2 months, HR for 7 months",
+    "adverse_reactions": [
+      "Joint pain"
+    ],
+    "treatment_outcome": "On treatment",
+    "lab_results": {
+      "smear": "Negative",
+      "genexpert": "MTB detected, no resistance",
+      "culture": "Negative"
+    },
+    "nutritional_status": "Normal",
+    "lifestyle_risks": []
+  }
+]
